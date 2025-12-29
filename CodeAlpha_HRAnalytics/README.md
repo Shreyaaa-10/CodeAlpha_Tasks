@@ -1,4 +1,3 @@
-# CodeAlpha_Tasks
 # HR Analytics Power BI Project
 
 ## Description
