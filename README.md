@@ -1,39 +1,39 @@
 Student Performance Analytics – Power BI Dashboard
 Description
 
-This project uses Power BI to analyze student-related data such as attendance, academic performance, departmental results, and resource utilization. The main goal is to present educational data in a clear and structured dashboard that helps in understanding performance trends and resource efficiency.
+This project is a Power BI dashboard developed to analyze student performance data, attendance trends, departmental results, and resource utilization. The dashboard converts academic data into structured and easy-to-understand visuals that support academic monitoring and planning.
 
 Purpose
 
-The purpose of this dashboard is to help academic administrators and educators make informed decisions by:
+The purpose of this dashboard is to:
 
-Tracking overall student count and performance
+Track total student count and overall performance
 
-Monitoring average attendance and marks
+Monitor average attendance and academic scores
 
-Comparing department-wise academic outcomes
+Compare performance across different departments
 
-Analyzing utilization of institutional resources
+Analyze utilization of educational resources
 
-🛠️ Tools & Technologies
+Tools and Technologies
 
-Power BI – Data visualization and dashboard design
+Power BI – Dashboard design and visualization
 
 Power Query – Data cleaning and transformation
 
-DAX – Measures and calculated KPIs
+DAX – Calculated measures and KPIs
 
 Excel / CSV – Dataset source
 
 Dashboard Overview
 
-The dashboard includes the following key sections:
+The dashboard consists of the following components:
 
-KPI cards for total students, average attendance, average marks, and resource utilization
+KPI cards showing total students, average attendance, average marks, and resource utilization
 
 Academic year-wise performance trend analysis
 
-Department-wise attendance and marks comparison
+Department-wise comparison of attendance and marks
 
 Resource utilization and cost analysis
 
@@ -41,24 +41,24 @@ Student distribution based on performance categories
 
 Key Insights
 
-Student performance trends can be observed across academic years
+Student performance trends are clearly visible across academic years
 
-Attendance levels vary between departments
+Attendance levels differ among departments
 
-Resource utilization differs based on resource type
+Resource utilization varies by resource type
 
-The dashboard helps identify areas that need academic or resource focus
+The dashboard helps identify areas that require academic or resource attention
 
 Benefits
 
-Easy-to-understand visual representation
+Clear and structured data representation
 
-Quick access to important academic metrics
+Quick access to key academic metrics
 
 Supports data-driven academic planning
 
-Improves monitoring of performance and attendance
+Improves performance and attendance monitoring
 
 Conclusion
 
-This Student Performance Analytics dashboard demonstrates how Power BI can be effectively used to convert educational data into meaningful insights. The structured visuals and KPIs make it easier to analyze performance, attendance, and resource usage, supporting better academic decision-making
+This Student Performance Analytics dashboard demonstrates the effective use of Power BI for educational data analysis. The organized layout, KPIs, and visualizations provide meaningful insights into student performance, attendance, and resource usage, supporting better academic decision-making.
